@@ -35,7 +35,7 @@
 		<div class="wrap-input100 validate-input" data-validate = "Valid email Input is required">
             <asp:TextBox ID="TextBox3" CssClass="input100" runat="server" placeholder="Eg. 8469 Hilltop Streethatan, VA 23139"></asp:TextBox>
             <span class="focus-input100"></span>
-		</div>
+		</div> 
 
 		<label class="label-input100" for="phone">Enter Employee Salary</label>
 		<div class="wrap-input100 validate-input" data-validate = "Valid Salary Input is required">
