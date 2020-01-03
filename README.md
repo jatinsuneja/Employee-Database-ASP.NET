@@ -22,6 +22,6 @@ ________________________________________________________________________________
   - Enter a Name.
   - Select **DefaultAppPool** For Appication Pool.
   - Select the Path of Folder.
-  - Select a Port No. for Localhost
+  - Emter 3002 as a Port No. for Localhost
   - Click **OK** to Add the website.
   - Start the website and browse on **http://localhost:3002/**.
