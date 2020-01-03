@@ -9,20 +9,19 @@ ________________________________________________________________________________
 
 ### To Run this application as Localhost Follow these steps
   1. Clone the repository, Extract it and make the folder public.
-    1. Go to Folder Properties
-    2.Select Sharing
-    3.Choose **Everyone** From Drop-Down List
-    4.Click on **Add**
-    5. Apply new settings.
+  - Go to Folder Properties
+  - Select Sharing
+  - Choose **Everyone** From Drop-Down List
+  - Click on **Add**
+  - Apply new settings.
     
   2.Import the EmpDB.sql File into Your MSSQL Server Database Using VS2017.
   
   3.Open **IIS** And follow the steps:-
-    1.Add new Website.
-    2.Enter a Name.
-    3. Select **DefaultAppPool** For Appication Pool.
-    4. Select the Path of Folder.
-    5.Select a Port No. for Localhost
-    6. Click **OK** to Add the website.
-    
-
+  - Add new Website.
+  - Enter a Name.
+  - Select **DefaultAppPool** For Appication Pool.
+  - Select the Path of Folder.
+  - Select a Port No. for Localhost
+  - Click **OK** to Add the website.
+  - Start the website and browse on **http://localhost:3002/**.
